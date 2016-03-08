@@ -1,0 +1,10 @@
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\bin\Debug\Proyecto_GrupoB.exe.config
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\bin\Debug\Proyecto_GrupoB.exe
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\bin\Debug\Proyecto_GrupoB.pdb
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.csprojResolveAssemblyReference.cache
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.Agregar_articulo.resources
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.Form_principal.resources
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.Properties.Resources.resources
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.csproj.GenerateResource.Cache
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.exe
+C:\Users\leungure\Desktop\Proyecto Progra\UH_Project_2B\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.pdb
